@@ -1,0 +1,116 @@
+#html {
+    font-family: 'Times New Roman', Times, serif
+}
+
+#header {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: xx-large;
+    border: groove 20px;
+    border-color: rgb(0, 255, 0);
+    background-color: purple;
+    text-align: center;
+}
+
+#main {
+    display: flex;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border: groove;
+    border-color: rgb(0, 255, 0);
+    background-color: black;
+    text-align: center;
+
+}
+
+#sec2 {
+    border: groove 5px;
+    border-color: rgb(0, 255, 0);
+    background-color: purple;
+    color: rgb(0, 255, 0);
+    border-radius: 5px;
+    margin: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#h1 {
+    border: double 10px;
+    padding: 5px;
+    text-shadow: 5px 5px 5px black;
+    border-radius: px5;
+    -webkit-border-radius: px5;
+    -moz-border-radius: px5;
+    -ms-border-radius: px5;
+    -o-border-radius: px5;
+}
+
+#h2 {
+    background-color: purple;
+    color: rgb(0, 255, 0);
+    border-color: rgb(0, 255, 0);
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    border: double 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#standards {
+    border: groove 5px;
+    border-radius: 5px;
+    background-color: purple;
+    border-color: rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+    margin: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#links {
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 30px;
+    font-weight: 700;
+    font-size: large;
+    list-style: upper-roman;
+    border: groove 5px;
+    border-radius: 5px;
+    background-color: purple;
+    border-color: rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+    position: absolute;
+    left: 75%;
+    top: 163%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#links a {
+    color: rgb(0, 255, 0);
+}
+
+#footer {
+    border: groove 5px;
+    background-color: purple;
+    color: rgb(0, 255, 0);
+    border-color: rgb(0, 255, 0);
+    border-radius: 5px;
+    text-align: center;
+    font-size: large;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
